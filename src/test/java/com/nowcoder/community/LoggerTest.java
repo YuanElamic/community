@@ -17,5 +17,6 @@ public class LoggerTest {
         logger.info("debug info");
         logger.warn("debug warn");
         logger.error("error warn");
+        System.out.println("hello git");
     }
 }
